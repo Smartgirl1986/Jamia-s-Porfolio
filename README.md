@@ -1,2 +1,2 @@
-# Jamia-s-Porfolio
-Data Science Portfolio
+# Jamia's Porfolio
+Data Science Projects
